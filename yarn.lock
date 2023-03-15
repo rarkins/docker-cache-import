@@ -1269,13 +1269,13 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/jest@npm:29.4.0":
-  version: 29.4.0
-  resolution: "@types/jest@npm:29.4.0"
+"@types/jest@npm:29.4.2":
+  version: 29.4.2
+  resolution: "@types/jest@npm:29.4.2"
   dependencies:
     expect: ^29.0.0
     pretty-format: ^29.0.0
-  checksum: 23760282362a252e6690314584d83a47512d4cd61663e957ed3398ecf98195fe931c45606ee2f9def12f8ed7d8aa102d492ec42d26facdaf8b78094a31e6568e
+  checksum: 83ec002d289c49c9693c619363e6db036db95426fcfa5e8e18b8291b721702bb8b3f711499f15a1d75c8fd92dc4184a24dfcc16a7b4fcde88c3c4f898240b58a
   languageName: node
   linkType: hard
 
@@ -2443,7 +2443,7 @@ __metadata:
     "@jest/types": 29.5.0
     "@tsconfig/node18-strictest-esm": 1.0.1
     "@types/eslint": 8.21.1
-    "@types/jest": 29.4.0
+    "@types/jest": 29.4.2
     "@types/node": 18.14.6
     "@types/prettier": 2.7.2
     "@typescript-eslint/eslint-plugin": 5.54.1
